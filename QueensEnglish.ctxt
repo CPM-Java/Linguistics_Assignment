@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=QueensEnglish
+comment0.text=\n\ Inheritance\ Assignment\n\ DO\ NOT\ MODIFY\n\ \n\ @author\ GK\ CPM\ \n\ @version\ 2/15/18\n
+comment1.params=who
+comment1.target=QueensEnglish(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ KingsEnglish\n
+comment2.params=
+comment2.target=java.lang.String\ getWho()
+comment3.params=
+comment3.target=java.lang.String\ relax()
+comment4.params=
+comment4.target=java.lang.String\ event()
+comment5.params=
+comment5.target=java.lang.String\ inNeed()
+comment6.params=
+comment6.target=java.lang.String\ food()
+comment7.params=
+comment7.target=java.lang.String\ points()
+numComments=8
